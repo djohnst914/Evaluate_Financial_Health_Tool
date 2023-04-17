@@ -1,4 +1,4 @@
-                      Evaluating Financial Health
+# Evaluating Financial Health
 
 With the help of fellow friends/coworkers, I decided to start a fintech consulting firm a few months ago that focuses on projects to benefit local communities. Just recently, we won our first contract with a large credit union. The project the credit union has put forth for us in the contract entails building a tool to help credit union members evaluate their financial health. Specifically, the credit union board wants the members to be able to do two things. First, they should be able to assess their monthly budgets and second, they should be able to forecast a reasonably effective retirement plan based on their current holdings of cryptocurrencies, stocks, and bonds. The chief technology officer (CTO) of the credit union wanted our firm to develop a prototype application to present at the union's next assembly. After lots of hard work we are excited to finally share! 
 
